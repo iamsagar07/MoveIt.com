@@ -1,0 +1,10 @@
+.container-fluid
+{
+    background-color: #73A9AD;
+}
+.col mb-3
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
